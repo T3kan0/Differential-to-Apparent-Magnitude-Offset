@@ -16,3 +16,6 @@ You will need to install the following software on your system in order to run/e
   * Numpy
   * Matplotlib
   * Scipy
+<p align="center">
+  <img align="center" width="700" height="600" src="https://github.com/T3kan0/Light_Curve_Temp_Profile/blob/main/3C279_Temp_Prof.png">
+</p>
