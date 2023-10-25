@@ -1,0 +1,1 @@
+# Differential-to-Apparent-Magnitude-Offset
