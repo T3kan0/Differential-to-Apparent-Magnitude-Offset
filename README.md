@@ -17,5 +17,5 @@ You will need to install the following software on your system in order to run/e
   * Matplotlib
   * Scipy
 <p align="center">
-  <img align="center" width="700" height="600" src="[](https://github.com/T3kan0/Differential-to-Apparent-Magnitude-Offset/blob/main/off_set_apparent.png)https://github.com/T3kan0/Differential-to-Apparent-Magnitude-Offset/blob/main/off_set_apparent.png">
+  <img align="center" width="700" height="600" src="[https://github.com/T3kan0/Differential-to-Apparent-Magnitude-Offset/blob/main/off_set_apparent.png)https://github.com/T3kan0/Differential-to-Apparent-Magnitude-Offset/blob/main/off_set_apparent.png]">
 </p>
